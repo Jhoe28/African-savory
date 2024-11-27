@@ -501,6 +501,9 @@ about .row .content .icons-container .icons span{
     padding: 0 9%;
 
 }
+.offer-container{
+    border-bottom: .1rem solid var(--brown);
+}
 .offer-container .small-container{
     max-width: 1080px;
     padding-left: 25px;
