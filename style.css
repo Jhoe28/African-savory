@@ -663,6 +663,7 @@ section.order{
 
 section.footer{
     background: #000;
+    padding: min(6rem, 8%);
 }
 
 .footer .box-container{
